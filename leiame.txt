@@ -1,0 +1,2 @@
+copiar a pasta webapp para c:\ para testar 
+o programa cadastro de pais no servidor.
